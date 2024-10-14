@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DAMEP_BP" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/pastel_blue</item> <!-- Cambia el color primario aquí -->
+        <item name="colorPrimaryVariant">@color/pastel_blue_dark</item> <!-- Variación más oscura, opcional -->
+        <item name="colorOnPrimary">@color/white</item> <!-- Color del texto en la barra -->
+    </style>
+
+    <style name="Theme.DAMEP_BP" parent="Base.Theme.DAMEP_BP" />
+</resources>
