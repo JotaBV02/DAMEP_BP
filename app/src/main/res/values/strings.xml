@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">DAMEP_BP</string>
+    <string name="app_name">CENSO DAM 2024</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="texto_apellidos_nombre">Apellidos y Nombres</string>
+    <string name="Correo_electronico">Correo Electronico</string>
+    <string name="Clave">Clave</string>
+    <string name="Telefono_Contacto">Telefono de Contacto</string>
+    <string name="Fecha_Nacimiento">Fecha de Nacimiento</string>
+    <string name="Hora_Nacimiento">Hora de Nacimiento</string>
+    <string name="Zona_Residencia">Zona de Residencia</string>
+    <string name="cant_personas">"¿Cuántas personas viven en la vivienda? (Entero) "</string>
+    <string name="ingreso">"Ingreso (Sueldo) Promedio de la Familia (Decimales) "</string>
+    <string name="opinion">¿Que opina sobre los bonos otorgados por el gobierno? (Multilinea)</string>
+    <string name="mascotas">Mascotas que viven en casa</string>
+    <string name="cate_Urbano">Urbano</string>
+    <string name="cate_Rural">Rural</string>
+    <string name="check_Gato">Gato</string>
+    <string name="check_Perro">Perro</string>
+    <string name="check_Pollo">Pollo\n\n</string>
+    <string name="check_Polloo">Pollo</string>
+    <string name="check_Pato">Pato</string>
+    <string name="chack_Otro">Otro</string>
 </resources>
